@@ -1,0 +1,4 @@
+name: Replant
+version: '1.0-SNAPSHOT'
+main: me.maikkrs.replant.Replant
+api-version: '1.20'

@@ -1,0 +1,4 @@
+name: Replant
+version: '${project.version}'
+main: me.maikkrs.replant.Replant
+api-version: '1.20'
